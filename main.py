@@ -86,5 +86,5 @@ plt.plot(predicted_stock_price, color = 'blue', label = 'Predicted Stock Price')
 #rms error value 
 rms = np.sqrt(np.mean(np.power(real_stock_price - predicted_stock_price, 2)))
 
-26.93363272172602
+
  
